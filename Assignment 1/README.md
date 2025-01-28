@@ -49,7 +49,7 @@ Exploratory Data Analysis (EDA), including:
 - Save the trained model as a joblib file for future predictions
 
 ## Test the API
-Use the `test.py` script to
+Use the `test.py` script.
 
 
 ## Model Info
